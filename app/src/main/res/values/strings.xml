@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookDio</string>
+    <string name="author_placeholderr" />
+    <string name="title_place_holder" />
+    <string name="cover" />
+    <string name="author_placeholder" />
+</resources>
